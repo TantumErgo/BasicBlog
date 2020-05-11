@@ -1,1 +1,3 @@
 # BasicBlog
+
+Basic blog template
